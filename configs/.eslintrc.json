@@ -33,6 +33,9 @@
       }
     ],
     "semi": [2, "always"],
-    "eol-last": "error"
+    "eol-last": "error",
+    "no-var": "error",
+    "camelcase": 1
+    // "strict": [2, "global"]
   }
 }
